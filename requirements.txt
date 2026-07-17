@@ -1,0 +1,9 @@
+tgcrypto
+pyrofork==2.3.42
+httpx[http2]
+aiohttp
+psutil
+pytz
+yt-dlp
+uvloop
+tgcrypto-pyrofork
